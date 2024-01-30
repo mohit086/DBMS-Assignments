@@ -1,5 +1,5 @@
 ## Instructions
-To test the codes, run the following commands after cloning:
+To test the codes, run the following commands :
 ```bash
 gcc -o contact_driver contact.c pds.c contact_driver.c
 ```
